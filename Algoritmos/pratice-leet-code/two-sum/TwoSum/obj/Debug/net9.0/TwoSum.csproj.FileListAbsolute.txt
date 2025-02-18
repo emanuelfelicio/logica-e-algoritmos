@@ -1,0 +1,14 @@
+D:\DSA-Pratice\Algoritmos\leet-code\two-sum\TwoSum\bin\Debug\net9.0\TwoSum.exe
+D:\DSA-Pratice\Algoritmos\leet-code\two-sum\TwoSum\bin\Debug\net9.0\TwoSum.deps.json
+D:\DSA-Pratice\Algoritmos\leet-code\two-sum\TwoSum\bin\Debug\net9.0\TwoSum.runtimeconfig.json
+D:\DSA-Pratice\Algoritmos\leet-code\two-sum\TwoSum\bin\Debug\net9.0\TwoSum.dll
+D:\DSA-Pratice\Algoritmos\leet-code\two-sum\TwoSum\bin\Debug\net9.0\TwoSum.pdb
+D:\DSA-Pratice\Algoritmos\leet-code\two-sum\TwoSum\obj\Debug\net9.0\TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\Algoritmos\leet-code\two-sum\TwoSum\obj\Debug\net9.0\TwoSum.AssemblyInfoInputs.cache
+D:\DSA-Pratice\Algoritmos\leet-code\two-sum\TwoSum\obj\Debug\net9.0\TwoSum.AssemblyInfo.cs
+D:\DSA-Pratice\Algoritmos\leet-code\two-sum\TwoSum\obj\Debug\net9.0\TwoSum.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\Algoritmos\leet-code\two-sum\TwoSum\obj\Debug\net9.0\TwoSum.dll
+D:\DSA-Pratice\Algoritmos\leet-code\two-sum\TwoSum\obj\Debug\net9.0\refint\TwoSum.dll
+D:\DSA-Pratice\Algoritmos\leet-code\two-sum\TwoSum\obj\Debug\net9.0\TwoSum.pdb
+D:\DSA-Pratice\Algoritmos\leet-code\two-sum\TwoSum\obj\Debug\net9.0\TwoSum.genruntimeconfig.cache
+D:\DSA-Pratice\Algoritmos\leet-code\two-sum\TwoSum\obj\Debug\net9.0\ref\TwoSum.dll

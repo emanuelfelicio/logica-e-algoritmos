@@ -1,0 +1,14 @@
+D:\DSA-Pratice\Algoritmos\binary-search\BinarySearchAlgo\bin\Debug\net9.0\BinarySearchAlgo.exe
+D:\DSA-Pratice\Algoritmos\binary-search\BinarySearchAlgo\bin\Debug\net9.0\BinarySearchAlgo.deps.json
+D:\DSA-Pratice\Algoritmos\binary-search\BinarySearchAlgo\bin\Debug\net9.0\BinarySearchAlgo.runtimeconfig.json
+D:\DSA-Pratice\Algoritmos\binary-search\BinarySearchAlgo\bin\Debug\net9.0\BinarySearchAlgo.dll
+D:\DSA-Pratice\Algoritmos\binary-search\BinarySearchAlgo\bin\Debug\net9.0\BinarySearchAlgo.pdb
+D:\DSA-Pratice\Algoritmos\binary-search\BinarySearchAlgo\obj\Debug\net9.0\BinarySearchAlgo.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\Algoritmos\binary-search\BinarySearchAlgo\obj\Debug\net9.0\BinarySearchAlgo.AssemblyInfoInputs.cache
+D:\DSA-Pratice\Algoritmos\binary-search\BinarySearchAlgo\obj\Debug\net9.0\BinarySearchAlgo.AssemblyInfo.cs
+D:\DSA-Pratice\Algoritmos\binary-search\BinarySearchAlgo\obj\Debug\net9.0\BinarySearchAlgo.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\Algoritmos\binary-search\BinarySearchAlgo\obj\Debug\net9.0\BinarySearchAlgo.dll
+D:\DSA-Pratice\Algoritmos\binary-search\BinarySearchAlgo\obj\Debug\net9.0\refint\BinarySearchAlgo.dll
+D:\DSA-Pratice\Algoritmos\binary-search\BinarySearchAlgo\obj\Debug\net9.0\BinarySearchAlgo.pdb
+D:\DSA-Pratice\Algoritmos\binary-search\BinarySearchAlgo\obj\Debug\net9.0\BinarySearchAlgo.genruntimeconfig.cache
+D:\DSA-Pratice\Algoritmos\binary-search\BinarySearchAlgo\obj\Debug\net9.0\ref\BinarySearchAlgo.dll

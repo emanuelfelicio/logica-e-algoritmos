@@ -1,0 +1,14 @@
+D:\DSA-Pratice\Lógica\compare-the-triplets\CompareTheTriplets\bin\Debug\net9.0\CompareTheTriplets.exe
+D:\DSA-Pratice\Lógica\compare-the-triplets\CompareTheTriplets\bin\Debug\net9.0\CompareTheTriplets.deps.json
+D:\DSA-Pratice\Lógica\compare-the-triplets\CompareTheTriplets\bin\Debug\net9.0\CompareTheTriplets.runtimeconfig.json
+D:\DSA-Pratice\Lógica\compare-the-triplets\CompareTheTriplets\bin\Debug\net9.0\CompareTheTriplets.dll
+D:\DSA-Pratice\Lógica\compare-the-triplets\CompareTheTriplets\bin\Debug\net9.0\CompareTheTriplets.pdb
+D:\DSA-Pratice\Lógica\compare-the-triplets\CompareTheTriplets\obj\Debug\net9.0\CompareTheTriplets.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\Lógica\compare-the-triplets\CompareTheTriplets\obj\Debug\net9.0\CompareTheTriplets.AssemblyInfoInputs.cache
+D:\DSA-Pratice\Lógica\compare-the-triplets\CompareTheTriplets\obj\Debug\net9.0\CompareTheTriplets.AssemblyInfo.cs
+D:\DSA-Pratice\Lógica\compare-the-triplets\CompareTheTriplets\obj\Debug\net9.0\CompareTheTriplets.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\Lógica\compare-the-triplets\CompareTheTriplets\obj\Debug\net9.0\CompareTheTriplets.dll
+D:\DSA-Pratice\Lógica\compare-the-triplets\CompareTheTriplets\obj\Debug\net9.0\refint\CompareTheTriplets.dll
+D:\DSA-Pratice\Lógica\compare-the-triplets\CompareTheTriplets\obj\Debug\net9.0\CompareTheTriplets.pdb
+D:\DSA-Pratice\Lógica\compare-the-triplets\CompareTheTriplets\obj\Debug\net9.0\CompareTheTriplets.genruntimeconfig.cache
+D:\DSA-Pratice\Lógica\compare-the-triplets\CompareTheTriplets\obj\Debug\net9.0\ref\CompareTheTriplets.dll

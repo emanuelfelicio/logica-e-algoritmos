@@ -1,0 +1,14 @@
+D:\DSA-Pratice\Algoritmos\pratice-leet-code\count-pairs-whose-sum-is-less-than-targe\CountPairs\bin\Debug\net9.0\CountPairs.exe
+D:\DSA-Pratice\Algoritmos\pratice-leet-code\count-pairs-whose-sum-is-less-than-targe\CountPairs\bin\Debug\net9.0\CountPairs.deps.json
+D:\DSA-Pratice\Algoritmos\pratice-leet-code\count-pairs-whose-sum-is-less-than-targe\CountPairs\bin\Debug\net9.0\CountPairs.runtimeconfig.json
+D:\DSA-Pratice\Algoritmos\pratice-leet-code\count-pairs-whose-sum-is-less-than-targe\CountPairs\bin\Debug\net9.0\CountPairs.dll
+D:\DSA-Pratice\Algoritmos\pratice-leet-code\count-pairs-whose-sum-is-less-than-targe\CountPairs\bin\Debug\net9.0\CountPairs.pdb
+D:\DSA-Pratice\Algoritmos\pratice-leet-code\count-pairs-whose-sum-is-less-than-targe\CountPairs\obj\Debug\net9.0\CountPairs.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\Algoritmos\pratice-leet-code\count-pairs-whose-sum-is-less-than-targe\CountPairs\obj\Debug\net9.0\CountPairs.AssemblyInfoInputs.cache
+D:\DSA-Pratice\Algoritmos\pratice-leet-code\count-pairs-whose-sum-is-less-than-targe\CountPairs\obj\Debug\net9.0\CountPairs.AssemblyInfo.cs
+D:\DSA-Pratice\Algoritmos\pratice-leet-code\count-pairs-whose-sum-is-less-than-targe\CountPairs\obj\Debug\net9.0\CountPairs.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\Algoritmos\pratice-leet-code\count-pairs-whose-sum-is-less-than-targe\CountPairs\obj\Debug\net9.0\CountPairs.dll
+D:\DSA-Pratice\Algoritmos\pratice-leet-code\count-pairs-whose-sum-is-less-than-targe\CountPairs\obj\Debug\net9.0\refint\CountPairs.dll
+D:\DSA-Pratice\Algoritmos\pratice-leet-code\count-pairs-whose-sum-is-less-than-targe\CountPairs\obj\Debug\net9.0\CountPairs.pdb
+D:\DSA-Pratice\Algoritmos\pratice-leet-code\count-pairs-whose-sum-is-less-than-targe\CountPairs\obj\Debug\net9.0\CountPairs.genruntimeconfig.cache
+D:\DSA-Pratice\Algoritmos\pratice-leet-code\count-pairs-whose-sum-is-less-than-targe\CountPairs\obj\Debug\net9.0\ref\CountPairs.dll

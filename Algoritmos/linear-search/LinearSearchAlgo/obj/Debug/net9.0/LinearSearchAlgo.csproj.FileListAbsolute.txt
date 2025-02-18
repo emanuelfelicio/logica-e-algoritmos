@@ -1,0 +1,14 @@
+D:\DSA-Pratice\Algoritmos\linear-search\LinearSearchAlgo\bin\Debug\net9.0\LinearSearchAlgo.exe
+D:\DSA-Pratice\Algoritmos\linear-search\LinearSearchAlgo\bin\Debug\net9.0\LinearSearchAlgo.deps.json
+D:\DSA-Pratice\Algoritmos\linear-search\LinearSearchAlgo\bin\Debug\net9.0\LinearSearchAlgo.runtimeconfig.json
+D:\DSA-Pratice\Algoritmos\linear-search\LinearSearchAlgo\bin\Debug\net9.0\LinearSearchAlgo.dll
+D:\DSA-Pratice\Algoritmos\linear-search\LinearSearchAlgo\bin\Debug\net9.0\LinearSearchAlgo.pdb
+D:\DSA-Pratice\Algoritmos\linear-search\LinearSearchAlgo\obj\Debug\net9.0\LinearSearchAlgo.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\Algoritmos\linear-search\LinearSearchAlgo\obj\Debug\net9.0\LinearSearchAlgo.AssemblyInfoInputs.cache
+D:\DSA-Pratice\Algoritmos\linear-search\LinearSearchAlgo\obj\Debug\net9.0\LinearSearchAlgo.AssemblyInfo.cs
+D:\DSA-Pratice\Algoritmos\linear-search\LinearSearchAlgo\obj\Debug\net9.0\LinearSearchAlgo.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\Algoritmos\linear-search\LinearSearchAlgo\obj\Debug\net9.0\LinearSearchAlgo.dll
+D:\DSA-Pratice\Algoritmos\linear-search\LinearSearchAlgo\obj\Debug\net9.0\refint\LinearSearchAlgo.dll
+D:\DSA-Pratice\Algoritmos\linear-search\LinearSearchAlgo\obj\Debug\net9.0\LinearSearchAlgo.pdb
+D:\DSA-Pratice\Algoritmos\linear-search\LinearSearchAlgo\obj\Debug\net9.0\LinearSearchAlgo.genruntimeconfig.cache
+D:\DSA-Pratice\Algoritmos\linear-search\LinearSearchAlgo\obj\Debug\net9.0\ref\LinearSearchAlgo.dll

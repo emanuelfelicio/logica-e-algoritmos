@@ -1,0 +1,14 @@
+D:\DSA-Pratice\Lógica\SimpleArraySum\SimpleArraySum\bin\Debug\net9.0\SimpleArraySum.exe
+D:\DSA-Pratice\Lógica\SimpleArraySum\SimpleArraySum\bin\Debug\net9.0\SimpleArraySum.deps.json
+D:\DSA-Pratice\Lógica\SimpleArraySum\SimpleArraySum\bin\Debug\net9.0\SimpleArraySum.runtimeconfig.json
+D:\DSA-Pratice\Lógica\SimpleArraySum\SimpleArraySum\bin\Debug\net9.0\SimpleArraySum.dll
+D:\DSA-Pratice\Lógica\SimpleArraySum\SimpleArraySum\bin\Debug\net9.0\SimpleArraySum.pdb
+D:\DSA-Pratice\Lógica\SimpleArraySum\SimpleArraySum\obj\Debug\net9.0\SimpleArraySum.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\Lógica\SimpleArraySum\SimpleArraySum\obj\Debug\net9.0\SimpleArraySum.AssemblyInfoInputs.cache
+D:\DSA-Pratice\Lógica\SimpleArraySum\SimpleArraySum\obj\Debug\net9.0\SimpleArraySum.AssemblyInfo.cs
+D:\DSA-Pratice\Lógica\SimpleArraySum\SimpleArraySum\obj\Debug\net9.0\SimpleArraySum.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\Lógica\SimpleArraySum\SimpleArraySum\obj\Debug\net9.0\SimpleArraySum.dll
+D:\DSA-Pratice\Lógica\SimpleArraySum\SimpleArraySum\obj\Debug\net9.0\refint\SimpleArraySum.dll
+D:\DSA-Pratice\Lógica\SimpleArraySum\SimpleArraySum\obj\Debug\net9.0\SimpleArraySum.pdb
+D:\DSA-Pratice\Lógica\SimpleArraySum\SimpleArraySum\obj\Debug\net9.0\SimpleArraySum.genruntimeconfig.cache
+D:\DSA-Pratice\Lógica\SimpleArraySum\SimpleArraySum\obj\Debug\net9.0\ref\SimpleArraySum.dll
