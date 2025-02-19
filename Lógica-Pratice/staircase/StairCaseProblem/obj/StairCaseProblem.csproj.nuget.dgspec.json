@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DSA-Pratice\\Algoritmos\\pratice-leet-code\\two-sum\\TwoSum\\TwoSum.csproj": {}
+    "D:\\DSA-Pratice\\Lógica-Pratice\\staircase\\StairCaseProblem\\StairCaseProblem.csproj": {}
   },
   "projects": {
-    "D:\\DSA-Pratice\\Algoritmos\\pratice-leet-code\\two-sum\\TwoSum\\TwoSum.csproj": {
+    "D:\\DSA-Pratice\\Lógica-Pratice\\staircase\\StairCaseProblem\\StairCaseProblem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DSA-Pratice\\Algoritmos\\pratice-leet-code\\two-sum\\TwoSum\\TwoSum.csproj",
-        "projectName": "TwoSum",
-        "projectPath": "D:\\DSA-Pratice\\Algoritmos\\pratice-leet-code\\two-sum\\TwoSum\\TwoSum.csproj",
+        "projectUniqueName": "D:\\DSA-Pratice\\Lógica-Pratice\\staircase\\StairCaseProblem\\StairCaseProblem.csproj",
+        "projectName": "StairCaseProblem",
+        "projectPath": "D:\\DSA-Pratice\\Lógica-Pratice\\staircase\\StairCaseProblem\\StairCaseProblem.csproj",
         "packagesPath": "C:\\Users\\emanu\\.nuget\\packages\\",
-        "outputPath": "D:\\DSA-Pratice\\Algoritmos\\pratice-leet-code\\two-sum\\TwoSum\\obj\\",
+        "outputPath": "D:\\DSA-Pratice\\Lógica-Pratice\\staircase\\StairCaseProblem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

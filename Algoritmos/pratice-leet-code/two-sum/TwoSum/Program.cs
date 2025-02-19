@@ -20,7 +20,7 @@ static int[] TwoSum(int[] nums, int target)
     }
     return [];
 }
-
+//melhor performance com hashmap
 static int[] TwoSumHashMap(int[] nums, int target)
 {
 
@@ -29,7 +29,7 @@ static int[] TwoSumHashMap(int[] nums, int target)
 
     for (int i = 0; i < nums.Length; i++)
     {
-        // será que o contrário não faz mais sentido ? map[i] = nums[i]
+       
         map[nums[i]] = i;
     }
 

@@ -1,0 +1,15 @@
+D:\DSA-Pratice\Lógica-Pratice\staircase\StairCaseProblem\bin\Debug\net9.0\StairCaseProblem.exe
+D:\DSA-Pratice\Lógica-Pratice\staircase\StairCaseProblem\bin\Debug\net9.0\StairCaseProblem.deps.json
+D:\DSA-Pratice\Lógica-Pratice\staircase\StairCaseProblem\bin\Debug\net9.0\StairCaseProblem.runtimeconfig.json
+D:\DSA-Pratice\Lógica-Pratice\staircase\StairCaseProblem\bin\Debug\net9.0\StairCaseProblem.dll
+D:\DSA-Pratice\Lógica-Pratice\staircase\StairCaseProblem\bin\Debug\net9.0\StairCaseProblem.pdb
+D:\DSA-Pratice\Lógica-Pratice\staircase\StairCaseProblem\obj\Debug\net9.0\StairCaseProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\Lógica-Pratice\staircase\StairCaseProblem\obj\Debug\net9.0\StairCaseProblem.AssemblyInfoInputs.cache
+D:\DSA-Pratice\Lógica-Pratice\staircase\StairCaseProblem\obj\Debug\net9.0\StairCaseProblem.AssemblyInfo.cs
+D:\DSA-Pratice\Lógica-Pratice\staircase\StairCaseProblem\obj\Debug\net9.0\StairCaseProblem.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\Lógica-Pratice\staircase\StairCaseProblem\obj\Debug\net9.0\StairCaseProblem.sourcelink.json
+D:\DSA-Pratice\Lógica-Pratice\staircase\StairCaseProblem\obj\Debug\net9.0\StairCaseProblem.dll
+D:\DSA-Pratice\Lógica-Pratice\staircase\StairCaseProblem\obj\Debug\net9.0\refint\StairCaseProblem.dll
+D:\DSA-Pratice\Lógica-Pratice\staircase\StairCaseProblem\obj\Debug\net9.0\StairCaseProblem.pdb
+D:\DSA-Pratice\Lógica-Pratice\staircase\StairCaseProblem\obj\Debug\net9.0\StairCaseProblem.genruntimeconfig.cache
+D:\DSA-Pratice\Lógica-Pratice\staircase\StairCaseProblem\obj\Debug\net9.0\ref\StairCaseProblem.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DSA-Pratice\\Algoritmos\\pratice-leet-code\\two-sum\\TwoSum\\TwoSum.csproj",
-      "projectName": "TwoSum",
-      "projectPath": "D:\\DSA-Pratice\\Algoritmos\\pratice-leet-code\\two-sum\\TwoSum\\TwoSum.csproj",
+      "projectUniqueName": "D:\\DSA-Pratice\\Lógica-Pratice\\mini-max-sum\\MinMaxSum\\MinMaxSum.csproj",
+      "projectName": "MinMaxSum",
+      "projectPath": "D:\\DSA-Pratice\\Lógica-Pratice\\mini-max-sum\\MinMaxSum\\MinMaxSum.csproj",
       "packagesPath": "C:\\Users\\emanu\\.nuget\\packages\\",
-      "outputPath": "D:\\DSA-Pratice\\Algoritmos\\pratice-leet-code\\two-sum\\TwoSum\\obj\\",
+      "outputPath": "D:\\DSA-Pratice\\Lógica-Pratice\\mini-max-sum\\MinMaxSum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

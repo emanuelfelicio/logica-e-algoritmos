@@ -1,0 +1,15 @@
+D:\DSA-Pratice\Lógica-Pratice\mini-max-sum\MinMaxSum\bin\Debug\net9.0\MinMaxSum.exe
+D:\DSA-Pratice\Lógica-Pratice\mini-max-sum\MinMaxSum\bin\Debug\net9.0\MinMaxSum.deps.json
+D:\DSA-Pratice\Lógica-Pratice\mini-max-sum\MinMaxSum\bin\Debug\net9.0\MinMaxSum.runtimeconfig.json
+D:\DSA-Pratice\Lógica-Pratice\mini-max-sum\MinMaxSum\bin\Debug\net9.0\MinMaxSum.dll
+D:\DSA-Pratice\Lógica-Pratice\mini-max-sum\MinMaxSum\bin\Debug\net9.0\MinMaxSum.pdb
+D:\DSA-Pratice\Lógica-Pratice\mini-max-sum\MinMaxSum\obj\Debug\net9.0\MinMaxSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\Lógica-Pratice\mini-max-sum\MinMaxSum\obj\Debug\net9.0\MinMaxSum.AssemblyInfoInputs.cache
+D:\DSA-Pratice\Lógica-Pratice\mini-max-sum\MinMaxSum\obj\Debug\net9.0\MinMaxSum.AssemblyInfo.cs
+D:\DSA-Pratice\Lógica-Pratice\mini-max-sum\MinMaxSum\obj\Debug\net9.0\MinMaxSum.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\Lógica-Pratice\mini-max-sum\MinMaxSum\obj\Debug\net9.0\MinMaxSum.sourcelink.json
+D:\DSA-Pratice\Lógica-Pratice\mini-max-sum\MinMaxSum\obj\Debug\net9.0\MinMaxSum.dll
+D:\DSA-Pratice\Lógica-Pratice\mini-max-sum\MinMaxSum\obj\Debug\net9.0\refint\MinMaxSum.dll
+D:\DSA-Pratice\Lógica-Pratice\mini-max-sum\MinMaxSum\obj\Debug\net9.0\MinMaxSum.pdb
+D:\DSA-Pratice\Lógica-Pratice\mini-max-sum\MinMaxSum\obj\Debug\net9.0\MinMaxSum.genruntimeconfig.cache
+D:\DSA-Pratice\Lógica-Pratice\mini-max-sum\MinMaxSum\obj\Debug\net9.0\ref\MinMaxSum.dll
