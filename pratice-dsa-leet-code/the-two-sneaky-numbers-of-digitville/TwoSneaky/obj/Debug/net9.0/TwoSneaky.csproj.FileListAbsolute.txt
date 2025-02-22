@@ -1,0 +1,15 @@
+D:\DSA-Pratice\pratice-dsa-leet-code\the-two-sneaky-numbers-of-digitville\TwoSneaky\bin\Debug\net9.0\TwoSneaky.exe
+D:\DSA-Pratice\pratice-dsa-leet-code\the-two-sneaky-numbers-of-digitville\TwoSneaky\bin\Debug\net9.0\TwoSneaky.deps.json
+D:\DSA-Pratice\pratice-dsa-leet-code\the-two-sneaky-numbers-of-digitville\TwoSneaky\bin\Debug\net9.0\TwoSneaky.runtimeconfig.json
+D:\DSA-Pratice\pratice-dsa-leet-code\the-two-sneaky-numbers-of-digitville\TwoSneaky\bin\Debug\net9.0\TwoSneaky.dll
+D:\DSA-Pratice\pratice-dsa-leet-code\the-two-sneaky-numbers-of-digitville\TwoSneaky\bin\Debug\net9.0\TwoSneaky.pdb
+D:\DSA-Pratice\pratice-dsa-leet-code\the-two-sneaky-numbers-of-digitville\TwoSneaky\obj\Debug\net9.0\TwoSneaky.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\pratice-dsa-leet-code\the-two-sneaky-numbers-of-digitville\TwoSneaky\obj\Debug\net9.0\TwoSneaky.AssemblyInfoInputs.cache
+D:\DSA-Pratice\pratice-dsa-leet-code\the-two-sneaky-numbers-of-digitville\TwoSneaky\obj\Debug\net9.0\TwoSneaky.AssemblyInfo.cs
+D:\DSA-Pratice\pratice-dsa-leet-code\the-two-sneaky-numbers-of-digitville\TwoSneaky\obj\Debug\net9.0\TwoSneaky.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\pratice-dsa-leet-code\the-two-sneaky-numbers-of-digitville\TwoSneaky\obj\Debug\net9.0\TwoSneaky.sourcelink.json
+D:\DSA-Pratice\pratice-dsa-leet-code\the-two-sneaky-numbers-of-digitville\TwoSneaky\obj\Debug\net9.0\TwoSneaky.dll
+D:\DSA-Pratice\pratice-dsa-leet-code\the-two-sneaky-numbers-of-digitville\TwoSneaky\obj\Debug\net9.0\refint\TwoSneaky.dll
+D:\DSA-Pratice\pratice-dsa-leet-code\the-two-sneaky-numbers-of-digitville\TwoSneaky\obj\Debug\net9.0\TwoSneaky.pdb
+D:\DSA-Pratice\pratice-dsa-leet-code\the-two-sneaky-numbers-of-digitville\TwoSneaky\obj\Debug\net9.0\TwoSneaky.genruntimeconfig.cache
+D:\DSA-Pratice\pratice-dsa-leet-code\the-two-sneaky-numbers-of-digitville\TwoSneaky\obj\Debug\net9.0\ref\TwoSneaky.dll
