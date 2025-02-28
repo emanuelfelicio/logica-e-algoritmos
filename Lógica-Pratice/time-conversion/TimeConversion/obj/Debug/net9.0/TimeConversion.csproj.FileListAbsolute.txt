@@ -1,0 +1,15 @@
+d:\DSA-Pratice\Lógica-Pratice\time-conversion\TimeConversion\bin\Debug\net9.0\TimeConversion.exe
+d:\DSA-Pratice\Lógica-Pratice\time-conversion\TimeConversion\bin\Debug\net9.0\TimeConversion.deps.json
+d:\DSA-Pratice\Lógica-Pratice\time-conversion\TimeConversion\bin\Debug\net9.0\TimeConversion.runtimeconfig.json
+d:\DSA-Pratice\Lógica-Pratice\time-conversion\TimeConversion\bin\Debug\net9.0\TimeConversion.dll
+d:\DSA-Pratice\Lógica-Pratice\time-conversion\TimeConversion\bin\Debug\net9.0\TimeConversion.pdb
+d:\DSA-Pratice\Lógica-Pratice\time-conversion\TimeConversion\obj\Debug\net9.0\TimeConversion.GeneratedMSBuildEditorConfig.editorconfig
+d:\DSA-Pratice\Lógica-Pratice\time-conversion\TimeConversion\obj\Debug\net9.0\TimeConversion.AssemblyInfoInputs.cache
+d:\DSA-Pratice\Lógica-Pratice\time-conversion\TimeConversion\obj\Debug\net9.0\TimeConversion.AssemblyInfo.cs
+d:\DSA-Pratice\Lógica-Pratice\time-conversion\TimeConversion\obj\Debug\net9.0\TimeConversion.csproj.CoreCompileInputs.cache
+d:\DSA-Pratice\Lógica-Pratice\time-conversion\TimeConversion\obj\Debug\net9.0\TimeConversion.sourcelink.json
+d:\DSA-Pratice\Lógica-Pratice\time-conversion\TimeConversion\obj\Debug\net9.0\TimeConversion.dll
+d:\DSA-Pratice\Lógica-Pratice\time-conversion\TimeConversion\obj\Debug\net9.0\refint\TimeConversion.dll
+d:\DSA-Pratice\Lógica-Pratice\time-conversion\TimeConversion\obj\Debug\net9.0\TimeConversion.pdb
+d:\DSA-Pratice\Lógica-Pratice\time-conversion\TimeConversion\obj\Debug\net9.0\TimeConversion.genruntimeconfig.cache
+d:\DSA-Pratice\Lógica-Pratice\time-conversion\TimeConversion\obj\Debug\net9.0\ref\TimeConversion.dll

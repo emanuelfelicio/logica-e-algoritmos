@@ -1,0 +1,15 @@
+d:\DSA-Pratice\Lógica-Pratice\grading-problem\Grading\bin\Debug\net9.0\Grading.exe
+d:\DSA-Pratice\Lógica-Pratice\grading-problem\Grading\bin\Debug\net9.0\Grading.deps.json
+d:\DSA-Pratice\Lógica-Pratice\grading-problem\Grading\bin\Debug\net9.0\Grading.runtimeconfig.json
+d:\DSA-Pratice\Lógica-Pratice\grading-problem\Grading\bin\Debug\net9.0\Grading.dll
+d:\DSA-Pratice\Lógica-Pratice\grading-problem\Grading\bin\Debug\net9.0\Grading.pdb
+d:\DSA-Pratice\Lógica-Pratice\grading-problem\Grading\obj\Debug\net9.0\Grading.GeneratedMSBuildEditorConfig.editorconfig
+d:\DSA-Pratice\Lógica-Pratice\grading-problem\Grading\obj\Debug\net9.0\Grading.AssemblyInfoInputs.cache
+d:\DSA-Pratice\Lógica-Pratice\grading-problem\Grading\obj\Debug\net9.0\Grading.AssemblyInfo.cs
+d:\DSA-Pratice\Lógica-Pratice\grading-problem\Grading\obj\Debug\net9.0\Grading.csproj.CoreCompileInputs.cache
+d:\DSA-Pratice\Lógica-Pratice\grading-problem\Grading\obj\Debug\net9.0\Grading.sourcelink.json
+d:\DSA-Pratice\Lógica-Pratice\grading-problem\Grading\obj\Debug\net9.0\Grading.dll
+d:\DSA-Pratice\Lógica-Pratice\grading-problem\Grading\obj\Debug\net9.0\refint\Grading.dll
+d:\DSA-Pratice\Lógica-Pratice\grading-problem\Grading\obj\Debug\net9.0\Grading.pdb
+d:\DSA-Pratice\Lógica-Pratice\grading-problem\Grading\obj\Debug\net9.0\Grading.genruntimeconfig.cache
+d:\DSA-Pratice\Lógica-Pratice\grading-problem\Grading\obj\Debug\net9.0\ref\Grading.dll

@@ -21,3 +21,7 @@ foreach (var item in hash)
 {
     Console.WriteLine($"chave : {item.Key} valor :{item.Value}");
 }
+
+string hello = "hello";
+int hashcode = hello.GetHashCode();
+Console.WriteLine(hashcode);
