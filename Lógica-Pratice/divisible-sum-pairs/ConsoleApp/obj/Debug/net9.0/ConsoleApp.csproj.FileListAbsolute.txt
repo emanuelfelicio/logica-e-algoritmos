@@ -1,0 +1,15 @@
+d:\DSA-Pratice\Lógica-Pratice\divisible-sum-pairs\ConsoleApp\bin\Debug\net9.0\ConsoleApp.exe
+d:\DSA-Pratice\Lógica-Pratice\divisible-sum-pairs\ConsoleApp\bin\Debug\net9.0\ConsoleApp.deps.json
+d:\DSA-Pratice\Lógica-Pratice\divisible-sum-pairs\ConsoleApp\bin\Debug\net9.0\ConsoleApp.runtimeconfig.json
+d:\DSA-Pratice\Lógica-Pratice\divisible-sum-pairs\ConsoleApp\bin\Debug\net9.0\ConsoleApp.dll
+d:\DSA-Pratice\Lógica-Pratice\divisible-sum-pairs\ConsoleApp\bin\Debug\net9.0\ConsoleApp.pdb
+d:\DSA-Pratice\Lógica-Pratice\divisible-sum-pairs\ConsoleApp\obj\Debug\net9.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+d:\DSA-Pratice\Lógica-Pratice\divisible-sum-pairs\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfoInputs.cache
+d:\DSA-Pratice\Lógica-Pratice\divisible-sum-pairs\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfo.cs
+d:\DSA-Pratice\Lógica-Pratice\divisible-sum-pairs\ConsoleApp\obj\Debug\net9.0\ConsoleApp.csproj.CoreCompileInputs.cache
+d:\DSA-Pratice\Lógica-Pratice\divisible-sum-pairs\ConsoleApp\obj\Debug\net9.0\ConsoleApp.sourcelink.json
+d:\DSA-Pratice\Lógica-Pratice\divisible-sum-pairs\ConsoleApp\obj\Debug\net9.0\ConsoleApp.dll
+d:\DSA-Pratice\Lógica-Pratice\divisible-sum-pairs\ConsoleApp\obj\Debug\net9.0\refint\ConsoleApp.dll
+d:\DSA-Pratice\Lógica-Pratice\divisible-sum-pairs\ConsoleApp\obj\Debug\net9.0\ConsoleApp.pdb
+d:\DSA-Pratice\Lógica-Pratice\divisible-sum-pairs\ConsoleApp\obj\Debug\net9.0\ConsoleApp.genruntimeconfig.cache
+d:\DSA-Pratice\Lógica-Pratice\divisible-sum-pairs\ConsoleApp\obj\Debug\net9.0\ref\ConsoleApp.dll

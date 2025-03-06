@@ -1,0 +1,15 @@
+d:\DSA-Pratice\Lógica-Pratice\day-of-the-programmer\App\bin\Debug\net9.0\App.exe
+d:\DSA-Pratice\Lógica-Pratice\day-of-the-programmer\App\bin\Debug\net9.0\App.deps.json
+d:\DSA-Pratice\Lógica-Pratice\day-of-the-programmer\App\bin\Debug\net9.0\App.runtimeconfig.json
+d:\DSA-Pratice\Lógica-Pratice\day-of-the-programmer\App\bin\Debug\net9.0\App.dll
+d:\DSA-Pratice\Lógica-Pratice\day-of-the-programmer\App\bin\Debug\net9.0\App.pdb
+d:\DSA-Pratice\Lógica-Pratice\day-of-the-programmer\App\obj\Debug\net9.0\App.GeneratedMSBuildEditorConfig.editorconfig
+d:\DSA-Pratice\Lógica-Pratice\day-of-the-programmer\App\obj\Debug\net9.0\App.AssemblyInfoInputs.cache
+d:\DSA-Pratice\Lógica-Pratice\day-of-the-programmer\App\obj\Debug\net9.0\App.AssemblyInfo.cs
+d:\DSA-Pratice\Lógica-Pratice\day-of-the-programmer\App\obj\Debug\net9.0\App.csproj.CoreCompileInputs.cache
+d:\DSA-Pratice\Lógica-Pratice\day-of-the-programmer\App\obj\Debug\net9.0\App.sourcelink.json
+d:\DSA-Pratice\Lógica-Pratice\day-of-the-programmer\App\obj\Debug\net9.0\App.dll
+d:\DSA-Pratice\Lógica-Pratice\day-of-the-programmer\App\obj\Debug\net9.0\refint\App.dll
+d:\DSA-Pratice\Lógica-Pratice\day-of-the-programmer\App\obj\Debug\net9.0\App.pdb
+d:\DSA-Pratice\Lógica-Pratice\day-of-the-programmer\App\obj\Debug\net9.0\App.genruntimeconfig.cache
+d:\DSA-Pratice\Lógica-Pratice\day-of-the-programmer\App\obj\Debug\net9.0\ref\App.dll

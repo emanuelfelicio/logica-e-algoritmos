@@ -40,7 +40,7 @@ public class Solution
             {
                 result = result.next;
             }
-            
+
         }
 
         return result;
