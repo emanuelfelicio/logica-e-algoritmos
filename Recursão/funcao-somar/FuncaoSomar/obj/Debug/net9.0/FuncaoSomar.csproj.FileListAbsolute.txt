@@ -1,0 +1,15 @@
+d:\DSA-Pratice\Recursão\funcao-somar\FuncaoSomar\bin\Debug\net9.0\FuncaoSomar.exe
+d:\DSA-Pratice\Recursão\funcao-somar\FuncaoSomar\bin\Debug\net9.0\FuncaoSomar.deps.json
+d:\DSA-Pratice\Recursão\funcao-somar\FuncaoSomar\bin\Debug\net9.0\FuncaoSomar.runtimeconfig.json
+d:\DSA-Pratice\Recursão\funcao-somar\FuncaoSomar\bin\Debug\net9.0\FuncaoSomar.dll
+d:\DSA-Pratice\Recursão\funcao-somar\FuncaoSomar\bin\Debug\net9.0\FuncaoSomar.pdb
+d:\DSA-Pratice\Recursão\funcao-somar\FuncaoSomar\obj\Debug\net9.0\FuncaoSomar.GeneratedMSBuildEditorConfig.editorconfig
+d:\DSA-Pratice\Recursão\funcao-somar\FuncaoSomar\obj\Debug\net9.0\FuncaoSomar.AssemblyInfoInputs.cache
+d:\DSA-Pratice\Recursão\funcao-somar\FuncaoSomar\obj\Debug\net9.0\FuncaoSomar.AssemblyInfo.cs
+d:\DSA-Pratice\Recursão\funcao-somar\FuncaoSomar\obj\Debug\net9.0\FuncaoSomar.csproj.CoreCompileInputs.cache
+d:\DSA-Pratice\Recursão\funcao-somar\FuncaoSomar\obj\Debug\net9.0\FuncaoSomar.sourcelink.json
+d:\DSA-Pratice\Recursão\funcao-somar\FuncaoSomar\obj\Debug\net9.0\FuncaoSomar.dll
+d:\DSA-Pratice\Recursão\funcao-somar\FuncaoSomar\obj\Debug\net9.0\refint\FuncaoSomar.dll
+d:\DSA-Pratice\Recursão\funcao-somar\FuncaoSomar\obj\Debug\net9.0\FuncaoSomar.pdb
+d:\DSA-Pratice\Recursão\funcao-somar\FuncaoSomar\obj\Debug\net9.0\FuncaoSomar.genruntimeconfig.cache
+d:\DSA-Pratice\Recursão\funcao-somar\FuncaoSomar\obj\Debug\net9.0\ref\FuncaoSomar.dll

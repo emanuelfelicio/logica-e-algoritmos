@@ -1,0 +1,15 @@
+d:\DSA-Pratice\Lógica-Pratice\drawing-book\BOOK\obj\Debug\net9.0\BOOK.GeneratedMSBuildEditorConfig.editorconfig
+d:\DSA-Pratice\Lógica-Pratice\drawing-book\BOOK\obj\Debug\net9.0\BOOK.AssemblyInfoInputs.cache
+d:\DSA-Pratice\Lógica-Pratice\drawing-book\BOOK\obj\Debug\net9.0\BOOK.AssemblyInfo.cs
+d:\DSA-Pratice\Lógica-Pratice\drawing-book\BOOK\obj\Debug\net9.0\BOOK.csproj.CoreCompileInputs.cache
+d:\DSA-Pratice\Lógica-Pratice\drawing-book\BOOK\obj\Debug\net9.0\BOOK.sourcelink.json
+d:\DSA-Pratice\Lógica-Pratice\drawing-book\BOOK\bin\Debug\net9.0\BOOK.exe
+d:\DSA-Pratice\Lógica-Pratice\drawing-book\BOOK\bin\Debug\net9.0\BOOK.deps.json
+d:\DSA-Pratice\Lógica-Pratice\drawing-book\BOOK\bin\Debug\net9.0\BOOK.runtimeconfig.json
+d:\DSA-Pratice\Lógica-Pratice\drawing-book\BOOK\bin\Debug\net9.0\BOOK.dll
+d:\DSA-Pratice\Lógica-Pratice\drawing-book\BOOK\bin\Debug\net9.0\BOOK.pdb
+d:\DSA-Pratice\Lógica-Pratice\drawing-book\BOOK\obj\Debug\net9.0\BOOK.dll
+d:\DSA-Pratice\Lógica-Pratice\drawing-book\BOOK\obj\Debug\net9.0\refint\BOOK.dll
+d:\DSA-Pratice\Lógica-Pratice\drawing-book\BOOK\obj\Debug\net9.0\BOOK.pdb
+d:\DSA-Pratice\Lógica-Pratice\drawing-book\BOOK\obj\Debug\net9.0\BOOK.genruntimeconfig.cache
+d:\DSA-Pratice\Lógica-Pratice\drawing-book\BOOK\obj\Debug\net9.0\ref\BOOK.dll
