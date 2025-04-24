@@ -16,18 +16,16 @@ class Result
     public static string appendAndDelete(string s, string t, int k)
     {
         int letrasIguais = 0;
-        int sPointer = 0;
-        int QuantidaDeRemocoes = 0;
-        int QuantidadeDeAcrescimos = 0;
-        int operacoes = 0;
-        for (int i = 0; i < t.Length; i++)
+        int tamanhoT = t.Length;
+        int tamanhoS = s.Length;
+        for (int i = 0; i < tamanhoT; i++)
         {
-            if (sPointer < s.Length)
+            if (letrasIguais < tamanhoS)
             {
                 if (s[i] == t[i])
                 {
                     letrasIguais++;
-                    sPointer++;
+
                 }
                 else
                 {
@@ -36,16 +34,19 @@ class Result
             }
 
         }
-        if (s.Length <= t.Length)
-        {
-            QuantidaDeRemocoes = s.Length - letrasIguais;
-            QuantidadeDeAcrescimos = t.Length - letrasIguais;
-            operacoes = QuantidadeDeAcrescimos + QuantidaDeRemocoes;
-        }
-       
-       
+        int operacoesMinimas = tamanhoS - letrasIguais + tamanhoT - letrasIguais;
 
-        if (operacoes <= k)
+
+    
+ 
+        
+        
+        if (k < operacoesMinimas)
+        {
+            return "No";
+        }
+        
+        else if ((k - operacoesMinimas) % 2 == 0 || k >= tamanhoS + tamanhoT)
         {
             return "Yes";
         }
@@ -53,6 +54,7 @@ class Result
         {
             return "No";
         }
+
 
     }
 

@@ -1,0 +1,15 @@
+d:\DSA-Pratice\EstruturaDeDados\tree\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+d:\DSA-Pratice\EstruturaDeDados\tree\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+d:\DSA-Pratice\EstruturaDeDados\tree\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+d:\DSA-Pratice\EstruturaDeDados\tree\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+d:\DSA-Pratice\EstruturaDeDados\tree\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+d:\DSA-Pratice\EstruturaDeDados\tree\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+d:\DSA-Pratice\EstruturaDeDados\tree\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+d:\DSA-Pratice\EstruturaDeDados\tree\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+d:\DSA-Pratice\EstruturaDeDados\tree\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+d:\DSA-Pratice\EstruturaDeDados\tree\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.sourcelink.json
+d:\DSA-Pratice\EstruturaDeDados\tree\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+d:\DSA-Pratice\EstruturaDeDados\tree\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+d:\DSA-Pratice\EstruturaDeDados\tree\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+d:\DSA-Pratice\EstruturaDeDados\tree\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+d:\DSA-Pratice\EstruturaDeDados\tree\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
