@@ -1,0 +1,15 @@
+D:\DSA-Pratice\pratice-hackerrank\jumping-on-the-clouds\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+D:\DSA-Pratice\pratice-hackerrank\jumping-on-the-clouds\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+D:\DSA-Pratice\pratice-hackerrank\jumping-on-the-clouds\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+D:\DSA-Pratice\pratice-hackerrank\jumping-on-the-clouds\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+D:\DSA-Pratice\pratice-hackerrank\jumping-on-the-clouds\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+D:\DSA-Pratice\pratice-hackerrank\jumping-on-the-clouds\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\pratice-hackerrank\jumping-on-the-clouds\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\DSA-Pratice\pratice-hackerrank\jumping-on-the-clouds\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+D:\DSA-Pratice\pratice-hackerrank\jumping-on-the-clouds\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\pratice-hackerrank\jumping-on-the-clouds\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.sourcelink.json
+D:\DSA-Pratice\pratice-hackerrank\jumping-on-the-clouds\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+D:\DSA-Pratice\pratice-hackerrank\jumping-on-the-clouds\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+D:\DSA-Pratice\pratice-hackerrank\jumping-on-the-clouds\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+D:\DSA-Pratice\pratice-hackerrank\jumping-on-the-clouds\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+D:\DSA-Pratice\pratice-hackerrank\jumping-on-the-clouds\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
