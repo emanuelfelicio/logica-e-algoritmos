@@ -23,20 +23,33 @@ class Result
     public static int hourglassSum(List<List<int>> arr)
     {
         int higherSum = -9 * 7;
-
-        for (int i = 0; i <= 3; i++)
+        int linha = 0;
+        while (linha <= 3)
         {
-            for (int j = 0; j <= 3; j++)
+            int coluna = 0;
+            while (coluna <= 3)
             {
-                int sum = arr[i][j] + arr[i][j + 1] + arr[i][j + 2] + arr[i + 1][j + 1] + arr[i + 2][j] + arr[i + 2][j + 1] + arr[i + 2][j + 2];
+                int sum = 0;
+                for (int j = coluna; j <= coluna + 2; j++)
+                {
+                    for (int i = linha; i <= linha + 2; i++)
+                    {
 
+                        if (!((i == linha + 1 && j == coluna) || (i == linha + 1 && j == coluna + 2)))
+                        {
+                            sum += arr[i][j];
+                        }
+
+                    }
+                }
                 if (sum > higherSum)
                 {
                     higherSum = sum;
                 }
+                coluna++;
             }
+            linha++;
         }
-
         return higherSum;
     }
 
