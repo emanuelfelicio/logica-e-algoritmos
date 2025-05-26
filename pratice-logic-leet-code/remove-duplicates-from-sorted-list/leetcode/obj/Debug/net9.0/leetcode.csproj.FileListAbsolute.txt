@@ -1,0 +1,15 @@
+D:\DSA-Pratice\pratice-logic-leet-code\remove-duplicates-from-sorted-list\leetcode\bin\Debug\net9.0\leetcode.exe
+D:\DSA-Pratice\pratice-logic-leet-code\remove-duplicates-from-sorted-list\leetcode\bin\Debug\net9.0\leetcode.deps.json
+D:\DSA-Pratice\pratice-logic-leet-code\remove-duplicates-from-sorted-list\leetcode\bin\Debug\net9.0\leetcode.runtimeconfig.json
+D:\DSA-Pratice\pratice-logic-leet-code\remove-duplicates-from-sorted-list\leetcode\bin\Debug\net9.0\leetcode.dll
+D:\DSA-Pratice\pratice-logic-leet-code\remove-duplicates-from-sorted-list\leetcode\bin\Debug\net9.0\leetcode.pdb
+D:\DSA-Pratice\pratice-logic-leet-code\remove-duplicates-from-sorted-list\leetcode\obj\Debug\net9.0\leetcode.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\pratice-logic-leet-code\remove-duplicates-from-sorted-list\leetcode\obj\Debug\net9.0\leetcode.AssemblyInfoInputs.cache
+D:\DSA-Pratice\pratice-logic-leet-code\remove-duplicates-from-sorted-list\leetcode\obj\Debug\net9.0\leetcode.AssemblyInfo.cs
+D:\DSA-Pratice\pratice-logic-leet-code\remove-duplicates-from-sorted-list\leetcode\obj\Debug\net9.0\leetcode.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\pratice-logic-leet-code\remove-duplicates-from-sorted-list\leetcode\obj\Debug\net9.0\leetcode.sourcelink.json
+D:\DSA-Pratice\pratice-logic-leet-code\remove-duplicates-from-sorted-list\leetcode\obj\Debug\net9.0\leetcode.dll
+D:\DSA-Pratice\pratice-logic-leet-code\remove-duplicates-from-sorted-list\leetcode\obj\Debug\net9.0\refint\leetcode.dll
+D:\DSA-Pratice\pratice-logic-leet-code\remove-duplicates-from-sorted-list\leetcode\obj\Debug\net9.0\leetcode.pdb
+D:\DSA-Pratice\pratice-logic-leet-code\remove-duplicates-from-sorted-list\leetcode\obj\Debug\net9.0\leetcode.genruntimeconfig.cache
+D:\DSA-Pratice\pratice-logic-leet-code\remove-duplicates-from-sorted-list\leetcode\obj\Debug\net9.0\ref\leetcode.dll
