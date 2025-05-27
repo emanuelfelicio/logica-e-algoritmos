@@ -1,7 +1,5 @@
-﻿using System.Text;
-
+﻿
 namespace CodeWars;
-
 class Program
 {
     static void Main(string[] args)
@@ -14,27 +12,28 @@ public static class Kata
 {
     public static string FirstNonRepeatingLetter(string s)
     {
-        var firstNonRepeatingLetter = "";
-        var lowerCaseS = s.ToLower();
-        for (int i = 0; i < s.Length; i++)
+        Dictionary<char, int> dict = [];
+        foreach (char caractere in s)
         {
-            var repeatedLetter = false;
-            for (var j = 0; j < lowerCaseS.Length; j++)
+            if (!dict.TryGetValue(caractere, out int num))
             {
-                if (lowerCaseS[i] == lowerCaseS[j] && i != j)
-                {
-                    repeatedLetter = true;
-                }
+                dict.Add(caractere, 1);
             }
-        
-            if (!repeatedLetter)
+            else
             {
-                firstNonRepeatingLetter = s[i].ToString();
-                break;
+                dict[caractere] = num + 1;
             }
         }
-        
-        return firstNonRepeatingLetter;
-        
+
+        foreach (var caractere in s)
+        {
+            if (dict[caractere] == 1)
+            {
+                return caractere.ToString();
+            }
+        }
+
+        return "";
+
     }
 }
