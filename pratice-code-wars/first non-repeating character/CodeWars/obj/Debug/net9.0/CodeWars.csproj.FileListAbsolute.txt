@@ -1,0 +1,15 @@
+D:\DSA-Pratice\pratice-code-wars\first non-repeating character\CodeWars\bin\Debug\net9.0\CodeWars.exe
+D:\DSA-Pratice\pratice-code-wars\first non-repeating character\CodeWars\bin\Debug\net9.0\CodeWars.deps.json
+D:\DSA-Pratice\pratice-code-wars\first non-repeating character\CodeWars\bin\Debug\net9.0\CodeWars.runtimeconfig.json
+D:\DSA-Pratice\pratice-code-wars\first non-repeating character\CodeWars\bin\Debug\net9.0\CodeWars.dll
+D:\DSA-Pratice\pratice-code-wars\first non-repeating character\CodeWars\bin\Debug\net9.0\CodeWars.pdb
+D:\DSA-Pratice\pratice-code-wars\first non-repeating character\CodeWars\obj\Debug\net9.0\CodeWars.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\pratice-code-wars\first non-repeating character\CodeWars\obj\Debug\net9.0\CodeWars.AssemblyInfoInputs.cache
+D:\DSA-Pratice\pratice-code-wars\first non-repeating character\CodeWars\obj\Debug\net9.0\CodeWars.AssemblyInfo.cs
+D:\DSA-Pratice\pratice-code-wars\first non-repeating character\CodeWars\obj\Debug\net9.0\CodeWars.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\pratice-code-wars\first non-repeating character\CodeWars\obj\Debug\net9.0\CodeWars.sourcelink.json
+D:\DSA-Pratice\pratice-code-wars\first non-repeating character\CodeWars\obj\Debug\net9.0\CodeWars.dll
+D:\DSA-Pratice\pratice-code-wars\first non-repeating character\CodeWars\obj\Debug\net9.0\refint\CodeWars.dll
+D:\DSA-Pratice\pratice-code-wars\first non-repeating character\CodeWars\obj\Debug\net9.0\CodeWars.pdb
+D:\DSA-Pratice\pratice-code-wars\first non-repeating character\CodeWars\obj\Debug\net9.0\CodeWars.genruntimeconfig.cache
+D:\DSA-Pratice\pratice-code-wars\first non-repeating character\CodeWars\obj\Debug\net9.0\ref\CodeWars.dll
