@@ -1,0 +1,15 @@
+D:\DSA-Pratice\study-recursion\fibbonacci-loop-way\Fibbonacci\bin\Debug\net9.0\Fibbonacci.exe
+D:\DSA-Pratice\study-recursion\fibbonacci-loop-way\Fibbonacci\bin\Debug\net9.0\Fibbonacci.deps.json
+D:\DSA-Pratice\study-recursion\fibbonacci-loop-way\Fibbonacci\bin\Debug\net9.0\Fibbonacci.runtimeconfig.json
+D:\DSA-Pratice\study-recursion\fibbonacci-loop-way\Fibbonacci\bin\Debug\net9.0\Fibbonacci.dll
+D:\DSA-Pratice\study-recursion\fibbonacci-loop-way\Fibbonacci\bin\Debug\net9.0\Fibbonacci.pdb
+D:\DSA-Pratice\study-recursion\fibbonacci-loop-way\Fibbonacci\obj\Debug\net9.0\Fibbonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\study-recursion\fibbonacci-loop-way\Fibbonacci\obj\Debug\net9.0\Fibbonacci.AssemblyInfoInputs.cache
+D:\DSA-Pratice\study-recursion\fibbonacci-loop-way\Fibbonacci\obj\Debug\net9.0\Fibbonacci.AssemblyInfo.cs
+D:\DSA-Pratice\study-recursion\fibbonacci-loop-way\Fibbonacci\obj\Debug\net9.0\Fibbonacci.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\study-recursion\fibbonacci-loop-way\Fibbonacci\obj\Debug\net9.0\Fibbonacci.sourcelink.json
+D:\DSA-Pratice\study-recursion\fibbonacci-loop-way\Fibbonacci\obj\Debug\net9.0\Fibbonacci.dll
+D:\DSA-Pratice\study-recursion\fibbonacci-loop-way\Fibbonacci\obj\Debug\net9.0\refint\Fibbonacci.dll
+D:\DSA-Pratice\study-recursion\fibbonacci-loop-way\Fibbonacci\obj\Debug\net9.0\Fibbonacci.pdb
+D:\DSA-Pratice\study-recursion\fibbonacci-loop-way\Fibbonacci\obj\Debug\net9.0\Fibbonacci.genruntimeconfig.cache
+D:\DSA-Pratice\study-recursion\fibbonacci-loop-way\Fibbonacci\obj\Debug\net9.0\ref\Fibbonacci.dll
