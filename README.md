@@ -10,15 +10,6 @@ Este repositório reúne minha prática e estudos voltados ao desenvolvimento do
 - Desenvolver o **raciocínio algorítmico** para enfrentar problemas reais.
 - Criar uma base sólida para **entrevistas técnicas**, competições e projetos futuros.
 
-## 📚 Conteúdos abordados
-
-- Estruturas de controle: if/else, loops, recursão
-- Arrays, listas, pilhas, filas
-- Árvores, grafos e tabelas hash
-- Algoritmos de ordenação e busca
-- Algoritmos matemáticos (MDC, exponenciação, etc.)
-- Análise de complexidade (notação Big O)
-
   ## ⚠️ Aviso Importante
 
 > **Este repositório tem foco educacional e de prática.**
