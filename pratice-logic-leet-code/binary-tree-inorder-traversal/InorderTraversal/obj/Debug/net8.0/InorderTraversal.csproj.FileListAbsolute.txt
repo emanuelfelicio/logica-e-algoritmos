@@ -1,0 +1,15 @@
+D:\DSA-Pratice\pratice-logic-leet-code\binary-tree-inorder-traversal\InorderTraversal\bin\Debug\net8.0\InorderTraversal.exe
+D:\DSA-Pratice\pratice-logic-leet-code\binary-tree-inorder-traversal\InorderTraversal\bin\Debug\net8.0\InorderTraversal.deps.json
+D:\DSA-Pratice\pratice-logic-leet-code\binary-tree-inorder-traversal\InorderTraversal\bin\Debug\net8.0\InorderTraversal.runtimeconfig.json
+D:\DSA-Pratice\pratice-logic-leet-code\binary-tree-inorder-traversal\InorderTraversal\bin\Debug\net8.0\InorderTraversal.dll
+D:\DSA-Pratice\pratice-logic-leet-code\binary-tree-inorder-traversal\InorderTraversal\bin\Debug\net8.0\InorderTraversal.pdb
+D:\DSA-Pratice\pratice-logic-leet-code\binary-tree-inorder-traversal\InorderTraversal\obj\Debug\net8.0\InorderTraversal.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\pratice-logic-leet-code\binary-tree-inorder-traversal\InorderTraversal\obj\Debug\net8.0\InorderTraversal.AssemblyInfoInputs.cache
+D:\DSA-Pratice\pratice-logic-leet-code\binary-tree-inorder-traversal\InorderTraversal\obj\Debug\net8.0\InorderTraversal.AssemblyInfo.cs
+D:\DSA-Pratice\pratice-logic-leet-code\binary-tree-inorder-traversal\InorderTraversal\obj\Debug\net8.0\InorderTraversal.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\pratice-logic-leet-code\binary-tree-inorder-traversal\InorderTraversal\obj\Debug\net8.0\InorderTraversal.sourcelink.json
+D:\DSA-Pratice\pratice-logic-leet-code\binary-tree-inorder-traversal\InorderTraversal\obj\Debug\net8.0\InorderTraversal.dll
+D:\DSA-Pratice\pratice-logic-leet-code\binary-tree-inorder-traversal\InorderTraversal\obj\Debug\net8.0\refint\InorderTraversal.dll
+D:\DSA-Pratice\pratice-logic-leet-code\binary-tree-inorder-traversal\InorderTraversal\obj\Debug\net8.0\InorderTraversal.pdb
+D:\DSA-Pratice\pratice-logic-leet-code\binary-tree-inorder-traversal\InorderTraversal\obj\Debug\net8.0\InorderTraversal.genruntimeconfig.cache
+D:\DSA-Pratice\pratice-logic-leet-code\binary-tree-inorder-traversal\InorderTraversal\obj\Debug\net8.0\ref\InorderTraversal.dll
