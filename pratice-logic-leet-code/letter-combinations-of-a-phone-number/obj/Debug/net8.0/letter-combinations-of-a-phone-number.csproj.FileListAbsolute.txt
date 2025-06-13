@@ -1,0 +1,15 @@
+D:\DSA-Pratice\pratice-logic-leet-code\letter-combinations-of-a-phone-number\bin\Debug\net8.0\letter-combinations-of-a-phone-number.exe
+D:\DSA-Pratice\pratice-logic-leet-code\letter-combinations-of-a-phone-number\bin\Debug\net8.0\letter-combinations-of-a-phone-number.deps.json
+D:\DSA-Pratice\pratice-logic-leet-code\letter-combinations-of-a-phone-number\bin\Debug\net8.0\letter-combinations-of-a-phone-number.runtimeconfig.json
+D:\DSA-Pratice\pratice-logic-leet-code\letter-combinations-of-a-phone-number\bin\Debug\net8.0\letter-combinations-of-a-phone-number.dll
+D:\DSA-Pratice\pratice-logic-leet-code\letter-combinations-of-a-phone-number\bin\Debug\net8.0\letter-combinations-of-a-phone-number.pdb
+D:\DSA-Pratice\pratice-logic-leet-code\letter-combinations-of-a-phone-number\obj\Debug\net8.0\letter-combinations-of-a-phone-number.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\pratice-logic-leet-code\letter-combinations-of-a-phone-number\obj\Debug\net8.0\letter-combinations-of-a-phone-number.AssemblyInfoInputs.cache
+D:\DSA-Pratice\pratice-logic-leet-code\letter-combinations-of-a-phone-number\obj\Debug\net8.0\letter-combinations-of-a-phone-number.AssemblyInfo.cs
+D:\DSA-Pratice\pratice-logic-leet-code\letter-combinations-of-a-phone-number\obj\Debug\net8.0\letter-combinations-of-a-phone-number.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\pratice-logic-leet-code\letter-combinations-of-a-phone-number\obj\Debug\net8.0\letter-combinations-of-a-phone-number.sourcelink.json
+D:\DSA-Pratice\pratice-logic-leet-code\letter-combinations-of-a-phone-number\obj\Debug\net8.0\letter-combinations-of-a-phone-number.dll
+D:\DSA-Pratice\pratice-logic-leet-code\letter-combinations-of-a-phone-number\obj\Debug\net8.0\refint\letter-combinations-of-a-phone-number.dll
+D:\DSA-Pratice\pratice-logic-leet-code\letter-combinations-of-a-phone-number\obj\Debug\net8.0\letter-combinations-of-a-phone-number.pdb
+D:\DSA-Pratice\pratice-logic-leet-code\letter-combinations-of-a-phone-number\obj\Debug\net8.0\letter-combinations-of-a-phone-number.genruntimeconfig.cache
+D:\DSA-Pratice\pratice-logic-leet-code\letter-combinations-of-a-phone-number\obj\Debug\net8.0\ref\letter-combinations-of-a-phone-number.dll
