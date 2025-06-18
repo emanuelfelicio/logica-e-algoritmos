@@ -1,0 +1,15 @@
+D:\DSA-Pratice\pratice-logic-hackerrank\crush\bin\Debug\net8.0\crush.exe
+D:\DSA-Pratice\pratice-logic-hackerrank\crush\bin\Debug\net8.0\crush.deps.json
+D:\DSA-Pratice\pratice-logic-hackerrank\crush\bin\Debug\net8.0\crush.runtimeconfig.json
+D:\DSA-Pratice\pratice-logic-hackerrank\crush\bin\Debug\net8.0\crush.dll
+D:\DSA-Pratice\pratice-logic-hackerrank\crush\bin\Debug\net8.0\crush.pdb
+D:\DSA-Pratice\pratice-logic-hackerrank\crush\obj\Debug\net8.0\crush.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\pratice-logic-hackerrank\crush\obj\Debug\net8.0\crush.AssemblyInfoInputs.cache
+D:\DSA-Pratice\pratice-logic-hackerrank\crush\obj\Debug\net8.0\crush.AssemblyInfo.cs
+D:\DSA-Pratice\pratice-logic-hackerrank\crush\obj\Debug\net8.0\crush.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\pratice-logic-hackerrank\crush\obj\Debug\net8.0\crush.sourcelink.json
+D:\DSA-Pratice\pratice-logic-hackerrank\crush\obj\Debug\net8.0\crush.dll
+D:\DSA-Pratice\pratice-logic-hackerrank\crush\obj\Debug\net8.0\refint\crush.dll
+D:\DSA-Pratice\pratice-logic-hackerrank\crush\obj\Debug\net8.0\crush.pdb
+D:\DSA-Pratice\pratice-logic-hackerrank\crush\obj\Debug\net8.0\crush.genruntimeconfig.cache
+D:\DSA-Pratice\pratice-logic-hackerrank\crush\obj\Debug\net8.0\ref\crush.dll

@@ -26,7 +26,7 @@ public class Solution
 
         if (string.IsNullOrEmpty(digits)) return list;
 
-        Queue<string> queue = new Queue<string>();
+        Queue<string> queue = new();
         queue.Enqueue(""); 
 
         foreach (char digit in digits)
@@ -69,14 +69,9 @@ public class Solution
                 }
 
             }
+            BackTrack(0, "");
         */
-
-        // BackTrack(0, "");
-
         return list;
-
-
-       
 
     }
 

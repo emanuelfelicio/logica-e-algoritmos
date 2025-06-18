@@ -1,0 +1,15 @@
+D:\DSA-Pratice\pratice-logic-hackerrank\bigger-is-greate\bin\Debug\net8.0\bigger-is-greate.exe
+D:\DSA-Pratice\pratice-logic-hackerrank\bigger-is-greate\bin\Debug\net8.0\bigger-is-greate.deps.json
+D:\DSA-Pratice\pratice-logic-hackerrank\bigger-is-greate\bin\Debug\net8.0\bigger-is-greate.runtimeconfig.json
+D:\DSA-Pratice\pratice-logic-hackerrank\bigger-is-greate\bin\Debug\net8.0\bigger-is-greate.dll
+D:\DSA-Pratice\pratice-logic-hackerrank\bigger-is-greate\bin\Debug\net8.0\bigger-is-greate.pdb
+D:\DSA-Pratice\pratice-logic-hackerrank\bigger-is-greate\obj\Debug\net8.0\bigger-is-greate.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\pratice-logic-hackerrank\bigger-is-greate\obj\Debug\net8.0\bigger-is-greate.AssemblyInfoInputs.cache
+D:\DSA-Pratice\pratice-logic-hackerrank\bigger-is-greate\obj\Debug\net8.0\bigger-is-greate.AssemblyInfo.cs
+D:\DSA-Pratice\pratice-logic-hackerrank\bigger-is-greate\obj\Debug\net8.0\bigger-is-greate.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\pratice-logic-hackerrank\bigger-is-greate\obj\Debug\net8.0\bigger-is-greate.sourcelink.json
+D:\DSA-Pratice\pratice-logic-hackerrank\bigger-is-greate\obj\Debug\net8.0\bigger-is-greate.dll
+D:\DSA-Pratice\pratice-logic-hackerrank\bigger-is-greate\obj\Debug\net8.0\refint\bigger-is-greate.dll
+D:\DSA-Pratice\pratice-logic-hackerrank\bigger-is-greate\obj\Debug\net8.0\bigger-is-greate.pdb
+D:\DSA-Pratice\pratice-logic-hackerrank\bigger-is-greate\obj\Debug\net8.0\bigger-is-greate.genruntimeconfig.cache
+D:\DSA-Pratice\pratice-logic-hackerrank\bigger-is-greate\obj\Debug\net8.0\ref\bigger-is-greate.dll
