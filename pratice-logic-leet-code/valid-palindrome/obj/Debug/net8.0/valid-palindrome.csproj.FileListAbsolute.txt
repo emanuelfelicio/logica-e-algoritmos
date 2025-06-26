@@ -1,0 +1,15 @@
+D:\DSA-Pratice\pratice-logic-leet-code\valid-palindrome\bin\Debug\net8.0\valid-palindrome.exe
+D:\DSA-Pratice\pratice-logic-leet-code\valid-palindrome\bin\Debug\net8.0\valid-palindrome.deps.json
+D:\DSA-Pratice\pratice-logic-leet-code\valid-palindrome\bin\Debug\net8.0\valid-palindrome.runtimeconfig.json
+D:\DSA-Pratice\pratice-logic-leet-code\valid-palindrome\bin\Debug\net8.0\valid-palindrome.dll
+D:\DSA-Pratice\pratice-logic-leet-code\valid-palindrome\bin\Debug\net8.0\valid-palindrome.pdb
+D:\DSA-Pratice\pratice-logic-leet-code\valid-palindrome\obj\Debug\net8.0\valid-palindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\pratice-logic-leet-code\valid-palindrome\obj\Debug\net8.0\valid-palindrome.AssemblyInfoInputs.cache
+D:\DSA-Pratice\pratice-logic-leet-code\valid-palindrome\obj\Debug\net8.0\valid-palindrome.AssemblyInfo.cs
+D:\DSA-Pratice\pratice-logic-leet-code\valid-palindrome\obj\Debug\net8.0\valid-palindrome.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\pratice-logic-leet-code\valid-palindrome\obj\Debug\net8.0\valid-palindrome.sourcelink.json
+D:\DSA-Pratice\pratice-logic-leet-code\valid-palindrome\obj\Debug\net8.0\valid-palindrome.dll
+D:\DSA-Pratice\pratice-logic-leet-code\valid-palindrome\obj\Debug\net8.0\refint\valid-palindrome.dll
+D:\DSA-Pratice\pratice-logic-leet-code\valid-palindrome\obj\Debug\net8.0\valid-palindrome.pdb
+D:\DSA-Pratice\pratice-logic-leet-code\valid-palindrome\obj\Debug\net8.0\valid-palindrome.genruntimeconfig.cache
+D:\DSA-Pratice\pratice-logic-leet-code\valid-palindrome\obj\Debug\net8.0\ref\valid-palindrome.dll
