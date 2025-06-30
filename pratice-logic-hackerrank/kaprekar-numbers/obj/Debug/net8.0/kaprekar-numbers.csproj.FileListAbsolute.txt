@@ -1,0 +1,15 @@
+D:\DSA-Pratice\pratice-logic-hackerrank\kaprekar-numbers\bin\Debug\net8.0\kaprekar-numbers.exe
+D:\DSA-Pratice\pratice-logic-hackerrank\kaprekar-numbers\bin\Debug\net8.0\kaprekar-numbers.deps.json
+D:\DSA-Pratice\pratice-logic-hackerrank\kaprekar-numbers\bin\Debug\net8.0\kaprekar-numbers.runtimeconfig.json
+D:\DSA-Pratice\pratice-logic-hackerrank\kaprekar-numbers\bin\Debug\net8.0\kaprekar-numbers.dll
+D:\DSA-Pratice\pratice-logic-hackerrank\kaprekar-numbers\bin\Debug\net8.0\kaprekar-numbers.pdb
+D:\DSA-Pratice\pratice-logic-hackerrank\kaprekar-numbers\obj\Debug\net8.0\kaprekar-numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\pratice-logic-hackerrank\kaprekar-numbers\obj\Debug\net8.0\kaprekar-numbers.AssemblyInfoInputs.cache
+D:\DSA-Pratice\pratice-logic-hackerrank\kaprekar-numbers\obj\Debug\net8.0\kaprekar-numbers.AssemblyInfo.cs
+D:\DSA-Pratice\pratice-logic-hackerrank\kaprekar-numbers\obj\Debug\net8.0\kaprekar-numbers.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\pratice-logic-hackerrank\kaprekar-numbers\obj\Debug\net8.0\kaprekar-numbers.sourcelink.json
+D:\DSA-Pratice\pratice-logic-hackerrank\kaprekar-numbers\obj\Debug\net8.0\kaprekar-numbers.dll
+D:\DSA-Pratice\pratice-logic-hackerrank\kaprekar-numbers\obj\Debug\net8.0\refint\kaprekar-numbers.dll
+D:\DSA-Pratice\pratice-logic-hackerrank\kaprekar-numbers\obj\Debug\net8.0\kaprekar-numbers.pdb
+D:\DSA-Pratice\pratice-logic-hackerrank\kaprekar-numbers\obj\Debug\net8.0\kaprekar-numbers.genruntimeconfig.cache
+D:\DSA-Pratice\pratice-logic-hackerrank\kaprekar-numbers\obj\Debug\net8.0\ref\kaprekar-numbers.dll
