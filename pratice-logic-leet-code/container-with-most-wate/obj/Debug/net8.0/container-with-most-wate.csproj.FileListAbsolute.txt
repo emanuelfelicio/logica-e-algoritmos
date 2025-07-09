@@ -1,0 +1,15 @@
+D:\DSA-Pratice\pratice-logic-leet-code\container-with-most-wate\bin\Debug\net8.0\container-with-most-wate.exe
+D:\DSA-Pratice\pratice-logic-leet-code\container-with-most-wate\bin\Debug\net8.0\container-with-most-wate.deps.json
+D:\DSA-Pratice\pratice-logic-leet-code\container-with-most-wate\bin\Debug\net8.0\container-with-most-wate.runtimeconfig.json
+D:\DSA-Pratice\pratice-logic-leet-code\container-with-most-wate\bin\Debug\net8.0\container-with-most-wate.dll
+D:\DSA-Pratice\pratice-logic-leet-code\container-with-most-wate\bin\Debug\net8.0\container-with-most-wate.pdb
+D:\DSA-Pratice\pratice-logic-leet-code\container-with-most-wate\obj\Debug\net8.0\container-with-most-wate.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\pratice-logic-leet-code\container-with-most-wate\obj\Debug\net8.0\container-with-most-wate.AssemblyInfoInputs.cache
+D:\DSA-Pratice\pratice-logic-leet-code\container-with-most-wate\obj\Debug\net8.0\container-with-most-wate.AssemblyInfo.cs
+D:\DSA-Pratice\pratice-logic-leet-code\container-with-most-wate\obj\Debug\net8.0\container-with-most-wate.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\pratice-logic-leet-code\container-with-most-wate\obj\Debug\net8.0\container-with-most-wate.sourcelink.json
+D:\DSA-Pratice\pratice-logic-leet-code\container-with-most-wate\obj\Debug\net8.0\container-with-most-wate.dll
+D:\DSA-Pratice\pratice-logic-leet-code\container-with-most-wate\obj\Debug\net8.0\refint\container-with-most-wate.dll
+D:\DSA-Pratice\pratice-logic-leet-code\container-with-most-wate\obj\Debug\net8.0\container-with-most-wate.pdb
+D:\DSA-Pratice\pratice-logic-leet-code\container-with-most-wate\obj\Debug\net8.0\container-with-most-wate.genruntimeconfig.cache
+D:\DSA-Pratice\pratice-logic-leet-code\container-with-most-wate\obj\Debug\net8.0\ref\container-with-most-wate.dll

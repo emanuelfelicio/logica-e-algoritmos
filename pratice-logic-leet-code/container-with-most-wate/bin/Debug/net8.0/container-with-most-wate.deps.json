@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "container-with-most-wate/1.0.0": {
+        "runtime": {
+          "container-with-most-wate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "container-with-most-wate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
