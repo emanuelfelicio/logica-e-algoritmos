@@ -1,0 +1,15 @@
+D:\DSA-Pratice\pratice-logic-leet-code\generate-parentheses\obj\Debug\net8.0\generate-parentheses.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\pratice-logic-leet-code\generate-parentheses\obj\Debug\net8.0\generate-parentheses.AssemblyInfoInputs.cache
+D:\DSA-Pratice\pratice-logic-leet-code\generate-parentheses\obj\Debug\net8.0\generate-parentheses.AssemblyInfo.cs
+D:\DSA-Pratice\pratice-logic-leet-code\generate-parentheses\obj\Debug\net8.0\generate-parentheses.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\pratice-logic-leet-code\generate-parentheses\obj\Debug\net8.0\generate-parentheses.sourcelink.json
+D:\DSA-Pratice\pratice-logic-leet-code\generate-parentheses\bin\Debug\net8.0\generate-parentheses.exe
+D:\DSA-Pratice\pratice-logic-leet-code\generate-parentheses\bin\Debug\net8.0\generate-parentheses.deps.json
+D:\DSA-Pratice\pratice-logic-leet-code\generate-parentheses\bin\Debug\net8.0\generate-parentheses.runtimeconfig.json
+D:\DSA-Pratice\pratice-logic-leet-code\generate-parentheses\bin\Debug\net8.0\generate-parentheses.dll
+D:\DSA-Pratice\pratice-logic-leet-code\generate-parentheses\bin\Debug\net8.0\generate-parentheses.pdb
+D:\DSA-Pratice\pratice-logic-leet-code\generate-parentheses\obj\Debug\net8.0\generate-parentheses.dll
+D:\DSA-Pratice\pratice-logic-leet-code\generate-parentheses\obj\Debug\net8.0\refint\generate-parentheses.dll
+D:\DSA-Pratice\pratice-logic-leet-code\generate-parentheses\obj\Debug\net8.0\generate-parentheses.pdb
+D:\DSA-Pratice\pratice-logic-leet-code\generate-parentheses\obj\Debug\net8.0\generate-parentheses.genruntimeconfig.cache
+D:\DSA-Pratice\pratice-logic-leet-code\generate-parentheses\obj\Debug\net8.0\ref\generate-parentheses.dll

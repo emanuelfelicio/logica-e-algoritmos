@@ -1,0 +1,15 @@
+D:\DSA-Pratice\pratice-logic-leet-code\emove-nth-node\bin\Debug\net8.0\emove-nth-node.exe
+D:\DSA-Pratice\pratice-logic-leet-code\emove-nth-node\bin\Debug\net8.0\emove-nth-node.deps.json
+D:\DSA-Pratice\pratice-logic-leet-code\emove-nth-node\bin\Debug\net8.0\emove-nth-node.runtimeconfig.json
+D:\DSA-Pratice\pratice-logic-leet-code\emove-nth-node\bin\Debug\net8.0\emove-nth-node.dll
+D:\DSA-Pratice\pratice-logic-leet-code\emove-nth-node\bin\Debug\net8.0\emove-nth-node.pdb
+D:\DSA-Pratice\pratice-logic-leet-code\emove-nth-node\obj\Debug\net8.0\emove-nth-node.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\pratice-logic-leet-code\emove-nth-node\obj\Debug\net8.0\emove-nth-node.AssemblyInfoInputs.cache
+D:\DSA-Pratice\pratice-logic-leet-code\emove-nth-node\obj\Debug\net8.0\emove-nth-node.AssemblyInfo.cs
+D:\DSA-Pratice\pratice-logic-leet-code\emove-nth-node\obj\Debug\net8.0\emove-nth-node.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\pratice-logic-leet-code\emove-nth-node\obj\Debug\net8.0\emove-nth-node.sourcelink.json
+D:\DSA-Pratice\pratice-logic-leet-code\emove-nth-node\obj\Debug\net8.0\emove-nth-node.dll
+D:\DSA-Pratice\pratice-logic-leet-code\emove-nth-node\obj\Debug\net8.0\refint\emove-nth-node.dll
+D:\DSA-Pratice\pratice-logic-leet-code\emove-nth-node\obj\Debug\net8.0\emove-nth-node.pdb
+D:\DSA-Pratice\pratice-logic-leet-code\emove-nth-node\obj\Debug\net8.0\emove-nth-node.genruntimeconfig.cache
+D:\DSA-Pratice\pratice-logic-leet-code\emove-nth-node\obj\Debug\net8.0\ref\emove-nth-node.dll

@@ -1,0 +1,15 @@
+D:\DSA-Pratice\pratice-logic-hackerrank\lisa-workbook\bin\Debug\net9.0\lisa-workbook.exe
+D:\DSA-Pratice\pratice-logic-hackerrank\lisa-workbook\bin\Debug\net9.0\lisa-workbook.deps.json
+D:\DSA-Pratice\pratice-logic-hackerrank\lisa-workbook\bin\Debug\net9.0\lisa-workbook.runtimeconfig.json
+D:\DSA-Pratice\pratice-logic-hackerrank\lisa-workbook\bin\Debug\net9.0\lisa-workbook.dll
+D:\DSA-Pratice\pratice-logic-hackerrank\lisa-workbook\bin\Debug\net9.0\lisa-workbook.pdb
+D:\DSA-Pratice\pratice-logic-hackerrank\lisa-workbook\obj\Debug\net9.0\lisa-workbook.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\pratice-logic-hackerrank\lisa-workbook\obj\Debug\net9.0\lisa-workbook.AssemblyInfoInputs.cache
+D:\DSA-Pratice\pratice-logic-hackerrank\lisa-workbook\obj\Debug\net9.0\lisa-workbook.AssemblyInfo.cs
+D:\DSA-Pratice\pratice-logic-hackerrank\lisa-workbook\obj\Debug\net9.0\lisa-workbook.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\pratice-logic-hackerrank\lisa-workbook\obj\Debug\net9.0\lisa-workbook.sourcelink.json
+D:\DSA-Pratice\pratice-logic-hackerrank\lisa-workbook\obj\Debug\net9.0\lisa-workbook.dll
+D:\DSA-Pratice\pratice-logic-hackerrank\lisa-workbook\obj\Debug\net9.0\refint\lisa-workbook.dll
+D:\DSA-Pratice\pratice-logic-hackerrank\lisa-workbook\obj\Debug\net9.0\lisa-workbook.pdb
+D:\DSA-Pratice\pratice-logic-hackerrank\lisa-workbook\obj\Debug\net9.0\lisa-workbook.genruntimeconfig.cache
+D:\DSA-Pratice\pratice-logic-hackerrank\lisa-workbook\obj\Debug\net9.0\ref\lisa-workbook.dll

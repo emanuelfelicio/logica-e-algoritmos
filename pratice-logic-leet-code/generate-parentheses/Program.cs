@@ -1,4 +1,8 @@
-﻿public class Solution
+﻿
+Solution solution = new();
+
+solution.GenerateParenthesis(3);
+public class Solution
 {
     public IList<string> GenerateParenthesis(int n)
     {

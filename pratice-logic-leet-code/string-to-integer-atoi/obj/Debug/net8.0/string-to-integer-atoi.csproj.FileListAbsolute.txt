@@ -1,0 +1,15 @@
+D:\DSA-Pratice\pratice-logic-leet-code\string-to-integer-atoi\bin\Debug\net8.0\string-to-integer-atoi.exe
+D:\DSA-Pratice\pratice-logic-leet-code\string-to-integer-atoi\bin\Debug\net8.0\string-to-integer-atoi.deps.json
+D:\DSA-Pratice\pratice-logic-leet-code\string-to-integer-atoi\bin\Debug\net8.0\string-to-integer-atoi.runtimeconfig.json
+D:\DSA-Pratice\pratice-logic-leet-code\string-to-integer-atoi\bin\Debug\net8.0\string-to-integer-atoi.dll
+D:\DSA-Pratice\pratice-logic-leet-code\string-to-integer-atoi\bin\Debug\net8.0\string-to-integer-atoi.pdb
+D:\DSA-Pratice\pratice-logic-leet-code\string-to-integer-atoi\obj\Debug\net8.0\string-to-integer-atoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\pratice-logic-leet-code\string-to-integer-atoi\obj\Debug\net8.0\string-to-integer-atoi.AssemblyInfoInputs.cache
+D:\DSA-Pratice\pratice-logic-leet-code\string-to-integer-atoi\obj\Debug\net8.0\string-to-integer-atoi.AssemblyInfo.cs
+D:\DSA-Pratice\pratice-logic-leet-code\string-to-integer-atoi\obj\Debug\net8.0\string-to-integer-atoi.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\pratice-logic-leet-code\string-to-integer-atoi\obj\Debug\net8.0\string-to-integer-atoi.sourcelink.json
+D:\DSA-Pratice\pratice-logic-leet-code\string-to-integer-atoi\obj\Debug\net8.0\string-to-integer-atoi.dll
+D:\DSA-Pratice\pratice-logic-leet-code\string-to-integer-atoi\obj\Debug\net8.0\refint\string-to-integer-atoi.dll
+D:\DSA-Pratice\pratice-logic-leet-code\string-to-integer-atoi\obj\Debug\net8.0\string-to-integer-atoi.pdb
+D:\DSA-Pratice\pratice-logic-leet-code\string-to-integer-atoi\obj\Debug\net8.0\string-to-integer-atoi.genruntimeconfig.cache
+D:\DSA-Pratice\pratice-logic-leet-code\string-to-integer-atoi\obj\Debug\net8.0\ref\string-to-integer-atoi.dll

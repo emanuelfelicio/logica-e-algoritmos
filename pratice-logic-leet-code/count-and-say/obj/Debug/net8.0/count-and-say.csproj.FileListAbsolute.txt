@@ -1,0 +1,15 @@
+D:\DSA-Pratice\pratice-logic-leet-code\count-and-say\obj\Debug\net8.0\count-and-say.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\pratice-logic-leet-code\count-and-say\obj\Debug\net8.0\count-and-say.AssemblyInfoInputs.cache
+D:\DSA-Pratice\pratice-logic-leet-code\count-and-say\obj\Debug\net8.0\count-and-say.AssemblyInfo.cs
+D:\DSA-Pratice\pratice-logic-leet-code\count-and-say\obj\Debug\net8.0\count-and-say.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\pratice-logic-leet-code\count-and-say\obj\Debug\net8.0\count-and-say.sourcelink.json
+D:\DSA-Pratice\pratice-logic-leet-code\count-and-say\bin\Debug\net8.0\count-and-say.exe
+D:\DSA-Pratice\pratice-logic-leet-code\count-and-say\bin\Debug\net8.0\count-and-say.deps.json
+D:\DSA-Pratice\pratice-logic-leet-code\count-and-say\bin\Debug\net8.0\count-and-say.runtimeconfig.json
+D:\DSA-Pratice\pratice-logic-leet-code\count-and-say\bin\Debug\net8.0\count-and-say.dll
+D:\DSA-Pratice\pratice-logic-leet-code\count-and-say\bin\Debug\net8.0\count-and-say.pdb
+D:\DSA-Pratice\pratice-logic-leet-code\count-and-say\obj\Debug\net8.0\count-and-say.dll
+D:\DSA-Pratice\pratice-logic-leet-code\count-and-say\obj\Debug\net8.0\refint\count-and-say.dll
+D:\DSA-Pratice\pratice-logic-leet-code\count-and-say\obj\Debug\net8.0\count-and-say.pdb
+D:\DSA-Pratice\pratice-logic-leet-code\count-and-say\obj\Debug\net8.0\count-and-say.genruntimeconfig.cache
+D:\DSA-Pratice\pratice-logic-leet-code\count-and-say\obj\Debug\net8.0\ref\count-and-say.dll
