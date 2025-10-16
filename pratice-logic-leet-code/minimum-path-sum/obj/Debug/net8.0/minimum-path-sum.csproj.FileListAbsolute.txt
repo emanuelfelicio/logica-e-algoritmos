@@ -1,0 +1,15 @@
+D:\DSA-Pratice\pratice-logic-leet-code\minimum-path-sum\obj\Debug\net8.0\minimum-path-sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\pratice-logic-leet-code\minimum-path-sum\obj\Debug\net8.0\minimum-path-sum.AssemblyInfoInputs.cache
+D:\DSA-Pratice\pratice-logic-leet-code\minimum-path-sum\obj\Debug\net8.0\minimum-path-sum.AssemblyInfo.cs
+D:\DSA-Pratice\pratice-logic-leet-code\minimum-path-sum\obj\Debug\net8.0\minimum-path-sum.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\pratice-logic-leet-code\minimum-path-sum\obj\Debug\net8.0\minimum-path-sum.sourcelink.json
+D:\DSA-Pratice\pratice-logic-leet-code\minimum-path-sum\bin\Debug\net8.0\minimum-path-sum.exe
+D:\DSA-Pratice\pratice-logic-leet-code\minimum-path-sum\bin\Debug\net8.0\minimum-path-sum.deps.json
+D:\DSA-Pratice\pratice-logic-leet-code\minimum-path-sum\bin\Debug\net8.0\minimum-path-sum.runtimeconfig.json
+D:\DSA-Pratice\pratice-logic-leet-code\minimum-path-sum\bin\Debug\net8.0\minimum-path-sum.dll
+D:\DSA-Pratice\pratice-logic-leet-code\minimum-path-sum\bin\Debug\net8.0\minimum-path-sum.pdb
+D:\DSA-Pratice\pratice-logic-leet-code\minimum-path-sum\obj\Debug\net8.0\minimum-path-sum.dll
+D:\DSA-Pratice\pratice-logic-leet-code\minimum-path-sum\obj\Debug\net8.0\refint\minimum-path-sum.dll
+D:\DSA-Pratice\pratice-logic-leet-code\minimum-path-sum\obj\Debug\net8.0\minimum-path-sum.pdb
+D:\DSA-Pratice\pratice-logic-leet-code\minimum-path-sum\obj\Debug\net8.0\minimum-path-sum.genruntimeconfig.cache
+D:\DSA-Pratice\pratice-logic-leet-code\minimum-path-sum\obj\Debug\net8.0\ref\minimum-path-sum.dll

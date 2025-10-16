@@ -1,0 +1,15 @@
+D:\DSA-Pratice\pratice-logic-leet-code\excel-sheet-column-title\bin\Debug\net8.0\excel-sheet-column-title.exe
+D:\DSA-Pratice\pratice-logic-leet-code\excel-sheet-column-title\bin\Debug\net8.0\excel-sheet-column-title.deps.json
+D:\DSA-Pratice\pratice-logic-leet-code\excel-sheet-column-title\bin\Debug\net8.0\excel-sheet-column-title.runtimeconfig.json
+D:\DSA-Pratice\pratice-logic-leet-code\excel-sheet-column-title\bin\Debug\net8.0\excel-sheet-column-title.dll
+D:\DSA-Pratice\pratice-logic-leet-code\excel-sheet-column-title\bin\Debug\net8.0\excel-sheet-column-title.pdb
+D:\DSA-Pratice\pratice-logic-leet-code\excel-sheet-column-title\obj\Debug\net8.0\excel-sheet-column-title.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\pratice-logic-leet-code\excel-sheet-column-title\obj\Debug\net8.0\excel-sheet-column-title.AssemblyInfoInputs.cache
+D:\DSA-Pratice\pratice-logic-leet-code\excel-sheet-column-title\obj\Debug\net8.0\excel-sheet-column-title.AssemblyInfo.cs
+D:\DSA-Pratice\pratice-logic-leet-code\excel-sheet-column-title\obj\Debug\net8.0\excel-sheet-column-title.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\pratice-logic-leet-code\excel-sheet-column-title\obj\Debug\net8.0\excel-sheet-column-title.sourcelink.json
+D:\DSA-Pratice\pratice-logic-leet-code\excel-sheet-column-title\obj\Debug\net8.0\excel-sheet-column-title.dll
+D:\DSA-Pratice\pratice-logic-leet-code\excel-sheet-column-title\obj\Debug\net8.0\refint\excel-sheet-column-title.dll
+D:\DSA-Pratice\pratice-logic-leet-code\excel-sheet-column-title\obj\Debug\net8.0\excel-sheet-column-title.pdb
+D:\DSA-Pratice\pratice-logic-leet-code\excel-sheet-column-title\obj\Debug\net8.0\excel-sheet-column-title.genruntimeconfig.cache
+D:\DSA-Pratice\pratice-logic-leet-code\excel-sheet-column-title\obj\Debug\net8.0\ref\excel-sheet-column-title.dll

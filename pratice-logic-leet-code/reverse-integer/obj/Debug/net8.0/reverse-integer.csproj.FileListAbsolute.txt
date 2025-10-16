@@ -1,0 +1,15 @@
+D:\DSA-Pratice\pratice-logic-leet-code\reverse-integer\bin\Debug\net8.0\reverse-integer.exe
+D:\DSA-Pratice\pratice-logic-leet-code\reverse-integer\bin\Debug\net8.0\reverse-integer.deps.json
+D:\DSA-Pratice\pratice-logic-leet-code\reverse-integer\bin\Debug\net8.0\reverse-integer.runtimeconfig.json
+D:\DSA-Pratice\pratice-logic-leet-code\reverse-integer\bin\Debug\net8.0\reverse-integer.dll
+D:\DSA-Pratice\pratice-logic-leet-code\reverse-integer\bin\Debug\net8.0\reverse-integer.pdb
+D:\DSA-Pratice\pratice-logic-leet-code\reverse-integer\obj\Debug\net8.0\reverse-integer.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\pratice-logic-leet-code\reverse-integer\obj\Debug\net8.0\reverse-integer.AssemblyInfoInputs.cache
+D:\DSA-Pratice\pratice-logic-leet-code\reverse-integer\obj\Debug\net8.0\reverse-integer.AssemblyInfo.cs
+D:\DSA-Pratice\pratice-logic-leet-code\reverse-integer\obj\Debug\net8.0\reverse-integer.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\pratice-logic-leet-code\reverse-integer\obj\Debug\net8.0\reverse-integer.sourcelink.json
+D:\DSA-Pratice\pratice-logic-leet-code\reverse-integer\obj\Debug\net8.0\reverse-integer.dll
+D:\DSA-Pratice\pratice-logic-leet-code\reverse-integer\obj\Debug\net8.0\refint\reverse-integer.dll
+D:\DSA-Pratice\pratice-logic-leet-code\reverse-integer\obj\Debug\net8.0\reverse-integer.pdb
+D:\DSA-Pratice\pratice-logic-leet-code\reverse-integer\obj\Debug\net8.0\reverse-integer.genruntimeconfig.cache
+D:\DSA-Pratice\pratice-logic-leet-code\reverse-integer\obj\Debug\net8.0\ref\reverse-integer.dll

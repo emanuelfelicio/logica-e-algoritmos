@@ -1,0 +1,15 @@
+D:\DSA-Pratice\pratice-logic-hackerrank\project-euler\010\bin\Debug\net8.0\010.exe
+D:\DSA-Pratice\pratice-logic-hackerrank\project-euler\010\bin\Debug\net8.0\010.deps.json
+D:\DSA-Pratice\pratice-logic-hackerrank\project-euler\010\bin\Debug\net8.0\010.runtimeconfig.json
+D:\DSA-Pratice\pratice-logic-hackerrank\project-euler\010\bin\Debug\net8.0\010.dll
+D:\DSA-Pratice\pratice-logic-hackerrank\project-euler\010\bin\Debug\net8.0\010.pdb
+D:\DSA-Pratice\pratice-logic-hackerrank\project-euler\010\obj\Debug\net8.0\010.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\pratice-logic-hackerrank\project-euler\010\obj\Debug\net8.0\010.AssemblyInfoInputs.cache
+D:\DSA-Pratice\pratice-logic-hackerrank\project-euler\010\obj\Debug\net8.0\010.AssemblyInfo.cs
+D:\DSA-Pratice\pratice-logic-hackerrank\project-euler\010\obj\Debug\net8.0\010.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\pratice-logic-hackerrank\project-euler\010\obj\Debug\net8.0\010.sourcelink.json
+D:\DSA-Pratice\pratice-logic-hackerrank\project-euler\010\obj\Debug\net8.0\010.dll
+D:\DSA-Pratice\pratice-logic-hackerrank\project-euler\010\obj\Debug\net8.0\refint\010.dll
+D:\DSA-Pratice\pratice-logic-hackerrank\project-euler\010\obj\Debug\net8.0\010.pdb
+D:\DSA-Pratice\pratice-logic-hackerrank\project-euler\010\obj\Debug\net8.0\010.genruntimeconfig.cache
+D:\DSA-Pratice\pratice-logic-hackerrank\project-euler\010\obj\Debug\net8.0\ref\010.dll

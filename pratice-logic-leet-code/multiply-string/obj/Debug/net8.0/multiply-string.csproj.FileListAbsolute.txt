@@ -1,0 +1,15 @@
+D:\DSA-Pratice\pratice-logic-leet-code\multiply-string\bin\Debug\net8.0\multiply-string.exe
+D:\DSA-Pratice\pratice-logic-leet-code\multiply-string\bin\Debug\net8.0\multiply-string.deps.json
+D:\DSA-Pratice\pratice-logic-leet-code\multiply-string\bin\Debug\net8.0\multiply-string.runtimeconfig.json
+D:\DSA-Pratice\pratice-logic-leet-code\multiply-string\bin\Debug\net8.0\multiply-string.dll
+D:\DSA-Pratice\pratice-logic-leet-code\multiply-string\bin\Debug\net8.0\multiply-string.pdb
+D:\DSA-Pratice\pratice-logic-leet-code\multiply-string\obj\Debug\net8.0\multiply-string.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\pratice-logic-leet-code\multiply-string\obj\Debug\net8.0\multiply-string.AssemblyInfoInputs.cache
+D:\DSA-Pratice\pratice-logic-leet-code\multiply-string\obj\Debug\net8.0\multiply-string.AssemblyInfo.cs
+D:\DSA-Pratice\pratice-logic-leet-code\multiply-string\obj\Debug\net8.0\multiply-string.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\pratice-logic-leet-code\multiply-string\obj\Debug\net8.0\multiply-string.sourcelink.json
+D:\DSA-Pratice\pratice-logic-leet-code\multiply-string\obj\Debug\net8.0\multiply-string.dll
+D:\DSA-Pratice\pratice-logic-leet-code\multiply-string\obj\Debug\net8.0\refint\multiply-string.dll
+D:\DSA-Pratice\pratice-logic-leet-code\multiply-string\obj\Debug\net8.0\multiply-string.pdb
+D:\DSA-Pratice\pratice-logic-leet-code\multiply-string\obj\Debug\net8.0\multiply-string.genruntimeconfig.cache
+D:\DSA-Pratice\pratice-logic-leet-code\multiply-string\obj\Debug\net8.0\ref\multiply-string.dll

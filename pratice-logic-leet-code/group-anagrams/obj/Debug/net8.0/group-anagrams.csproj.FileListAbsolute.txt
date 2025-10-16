@@ -1,0 +1,15 @@
+D:\DSA-Pratice\pratice-logic-leet-code\group-anagrams\bin\Debug\net8.0\group-anagrams.exe
+D:\DSA-Pratice\pratice-logic-leet-code\group-anagrams\bin\Debug\net8.0\group-anagrams.deps.json
+D:\DSA-Pratice\pratice-logic-leet-code\group-anagrams\bin\Debug\net8.0\group-anagrams.runtimeconfig.json
+D:\DSA-Pratice\pratice-logic-leet-code\group-anagrams\bin\Debug\net8.0\group-anagrams.dll
+D:\DSA-Pratice\pratice-logic-leet-code\group-anagrams\bin\Debug\net8.0\group-anagrams.pdb
+D:\DSA-Pratice\pratice-logic-leet-code\group-anagrams\obj\Debug\net8.0\group-anagrams.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-Pratice\pratice-logic-leet-code\group-anagrams\obj\Debug\net8.0\group-anagrams.AssemblyInfoInputs.cache
+D:\DSA-Pratice\pratice-logic-leet-code\group-anagrams\obj\Debug\net8.0\group-anagrams.AssemblyInfo.cs
+D:\DSA-Pratice\pratice-logic-leet-code\group-anagrams\obj\Debug\net8.0\group-anagrams.csproj.CoreCompileInputs.cache
+D:\DSA-Pratice\pratice-logic-leet-code\group-anagrams\obj\Debug\net8.0\group-anagrams.sourcelink.json
+D:\DSA-Pratice\pratice-logic-leet-code\group-anagrams\obj\Debug\net8.0\group-anagrams.dll
+D:\DSA-Pratice\pratice-logic-leet-code\group-anagrams\obj\Debug\net8.0\refint\group-anagrams.dll
+D:\DSA-Pratice\pratice-logic-leet-code\group-anagrams\obj\Debug\net8.0\group-anagrams.pdb
+D:\DSA-Pratice\pratice-logic-leet-code\group-anagrams\obj\Debug\net8.0\group-anagrams.genruntimeconfig.cache
+D:\DSA-Pratice\pratice-logic-leet-code\group-anagrams\obj\Debug\net8.0\ref\group-anagrams.dll

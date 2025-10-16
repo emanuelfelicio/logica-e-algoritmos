@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "excel-sheet-column-title/1.0.0": {
+        "runtime": {
+          "excel-sheet-column-title.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "excel-sheet-column-title/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
